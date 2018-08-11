@@ -20,5 +20,8 @@ validating and perhaps even contribute in the documentation for this book.
 In addition, we would like the community of writers to be rewarded for their contribution to the book (in tezzies 
 of course). The community will choose through voting on how the tezzies should be distributed among the 
 contributors. A Tezos address has been setup for this purpose and Hayek Lab has funded it with an initial 200 tezzies:
-http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
+
 KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
+
+http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
+
