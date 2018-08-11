@@ -17,6 +17,9 @@ Among the contributors of this project, we hope to see Graphic Designers as well
 proof-writers. Of course, we hope the Tezos foundation and the developers of the Tezos source code will help in 
 validating and perhaps even contribute in the documentation for this book. 
 
+Contributors can start at any time, some of the team members at Hayek Lab will do so as well. To participate, we are
+using the GitHub.com platform where contributors can make comments or open pull requests with changes.
+
 In addition, we would like the community of writers to be rewarded for their contribution to the book (in tezzies 
 of course). The community will choose through voting on how the tezzies should be distributed among the 
 contributors. A Tezos address has been setup for this purpose and Hayek Lab has funded it with an initial 200 tezzies:
@@ -25,3 +28,9 @@ KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
 http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
 
 Anyone can contribute with donation as well. 
+
+Regards
+Hayek Lab Team
+https://www.HayekLab.com
+https://twitter.com/HayekLab
+
