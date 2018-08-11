@@ -23,4 +23,5 @@ contributors. A Tezos address has been setup for this purpose and Hayek Lab has 
 
 KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
 http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
+
 Anyone is encourage to contribute with donation as well. 
