@@ -30,7 +30,10 @@ http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
 Anyone can contribute with donation as well. 
 
 Regards
+
 Hayek Lab Team
+
 https://www.HayekLab.com
+
 https://twitter.com/HayekLab
 
