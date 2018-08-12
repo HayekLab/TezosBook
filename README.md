@@ -29,6 +29,10 @@ http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
 
 Anyone can contribute with donation as well. 
 
+We will use our twitter account to broadcast announcement related to this project. 
+
+https://twitter.com/HayekLab
+
 Regards
 
 Hayek Lab Team
