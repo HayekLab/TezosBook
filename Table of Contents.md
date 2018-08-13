@@ -14,6 +14,8 @@ Chapter 5 - Under the hood
 
 Chapter 6 - Outlook on the Future of Tezos
 
+Chapter 7 - Tezos investors personal stories
+
 Conclusion
 
 
