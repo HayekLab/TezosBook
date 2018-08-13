@@ -1,10 +1,9 @@
 # TezosBook
 An introductory book about Tezos, the crypto-currency with delegated proof of stake, smart contracts and governance.
 
-The content of this book will come from the contributions of many writers in the Tezos community. 
+The content of this book will come from the contributions of many writers in the Tezos community.
 
-The licensing are based on Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+This book is licensed under [Creative Commons BY-NC-SA 4.0](./LICENSE)
 
 Hayek Lab (HayekLab.com) will create a PDF version of the book to be distributed for free to the community. Considering
 a paper book has better appeal to some readers and will give more prominence to Tezos, Hayek Lab intends on paying for
@@ -15,7 +14,7 @@ community, whether they are investors, bakers, educators or smart contract devel
 
 Among the contributors of this project, we hope to see Graphic Designers as well as developers, editors, writers and 
 proof-writers. Of course, we hope the Tezos foundation and the developers of the Tezos source code will help in 
-validating and perhaps even contribute in the documentation for this book. 
+validating and perhaps even contribute to documentation for this book.
 
 Contributors can start at any time, some of the team members at Hayek Lab will do so as well. To participate, we are
 using the GitHub.com platform where contributors can make comments or open pull requests with changes.
@@ -24,20 +23,19 @@ In addition, we would like the community of writers to be rewarded for their con
 of course). The community will choose through voting on how the tezzies should be distributed among the 
 contributors. A Tezos address has been setup for this purpose and Hayek Lab has funded it with an initial 200 tezzies:
 
-KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
-http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
+[KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE][reward-fund]
 
-Anyone can contribute with donation as well. 
+Anyone can contribute donation as well.
 
-We will use our twitter account to broadcast announcement related to this project. 
-
-https://twitter.com/HayekLab
+We will use our twitter account ([@HayekLab][hayek-lab-twitter]) to broadcast announcements related to this project.
 
 Regards
 
 Hayek Lab Team
 
-https://www.HayekLab.com
+* Our [Website][hayek-lab-website]
+* Our [Twitter][hayek-lab-twitter]
 
-https://twitter.com/HayekLab
-
+[reward-fund]: http://tzscan.io/KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE
+[hayek-lab-website]: https://www.HayekLab.com
+[hayek-lab-twitter]: https://twitter.com/HayekLab
