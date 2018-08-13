@@ -26,8 +26,9 @@ Reference is in part the tezos-client man page
 
 Chapter 5 - So you want to be a baker 
 The best practices, security.
-Time frame in terms of cycles and delegations.
-References
+Time frame in terms of cycles and delegations, meaning, by the time tezzies have been committed for baking, the cycles it takes 
+before it actually will bake either blocks or perform endorsements. And then the cycles expected to get the actual rewards.
+References:
 https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1
   
 Chapter 6 - Under the hood
