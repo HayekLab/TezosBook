@@ -3,8 +3,6 @@ This file is meant to contain notes about what content should be included, in wh
 
 The current table of content is listed as this:
 
-Introduction 
-
 Chapter 1 - Tezos Origin And History
 The chapter proposed title is "Tezos Origin and history". A good piece of inspiration for this chapter can come from 
 the Wired Magazine article, but there are a lot of other information to cover. The lawsuits against the Foundation
@@ -18,17 +16,26 @@ crypto-currency's proof of stake. Good articles for inspiration:
 https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7
 https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f
 
+Chapter 3 - Tezos technical view  
+Covers tz1 address, origination, delegations, kt1 addresses. Screen captures of tzscan.io service to illustrate 
+the different terms.
 
+Chapter 4 - Using the Tezos Software
+Covers the tezos-client, the important command to transfer funds, to create a delegation.
+Reference is in part the tezos-client man page
 
-Chapter 3 - Using the Tezos Software
-
-Chapter 4 - So you want to be a baker
+Chapter 5 - So you want to be a baker 
+The best practices, security.
+Time frame in terms of cycles and delegations.
+References
+https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1
   
-Chapter 5 - Under the hood
+Chapter 6 - Under the hood
 
-Chapter 6 - Outlook on the Future of Tezos
 
-Chapter 7 - Tezos investors personal stories
+Chapter 7 - Outlook on the Future of Tezos
+
+Chapter 8 - Tezos investors personal stories
 One of the last chapter will be composed of several personal stories by Tezos investors, what brought them to Tezos, how 
 they lived through the personal early drama at the Foundation until today. 
 
