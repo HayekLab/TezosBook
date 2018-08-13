@@ -1,0 +1,37 @@
+
+This file is meant to contain notes about what content should be included, in what order, and presented in what specific way.
+
+The current table of content is listed as this:
+
+Introduction 
+
+Chapter 1 - Tezos Origin And History
+The chapter proposed title is "Tezos Origin and history". A good piece of inspiration for this chapter can come from 
+the Wired Magazine article, but there are a lot of other information to cover. The lawsuits against the Foundation
+would also be covered, our personal view is this move was likely premeditated before the ICO.
+
+Chapter 2 - A General Overview of Tezos
+This chapter will provide the 30,000 foot level covering Functional Programming and formal verification, Delegated proof 
+of stake, governance and smart contracts. 
+This should cover delegated proof of stake which has recently be nicknamed Liquid Proof Of Stake when comparing with other
+crypto-currency's proof of stake. Good articles for inspiration:
+https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7
+https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f
+
+
+
+Chapter 3 - Using the Tezos Software
+
+Chapter 4 - So you want to be a baker
+  
+Chapter 5 - Under the hood
+
+Chapter 6 - Outlook on the Future of Tezos
+
+Chapter 7 - Tezos investors personal stories
+One of the last chapter will be composed of several personal stories by Tezos investors, what brought them to Tezos, how 
+they lived through the personal early drama at the Foundation until today. 
+
+Conclusion
+
+
