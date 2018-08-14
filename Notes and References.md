@@ -1,6 +1,15 @@
 
 This file is meant to contain notes about what content should be included, in what order, and presented in what specific way.
 
+This should be the starting points with notes and references that will serve for writing each chapters. Some of you might
+be just interested in sharing interesting articles and links, while others might be interested in contributing. Remember,
+you don't need to be an established and talented writer, the important is to bring up some points that others can
+build on. The editorial touch will polish everything together for the final publication. And again, we hope we will
+be self sufficient (the community), worse case scenario, Hayek Lab will hire a editor to run the final touch.
+
+If you do not know how to contribute with Github, that's fine, you can email us at info at HayekLab dot com
+
+
 The current table of content is listed as this:
 
 Chapter 1 - Tezos Origin And History
