@@ -1,6 +1,11 @@
 
 This file is meant to contain notes about what content should be included, in what order, and presented in what specific way.
 
+If you desire to participate, send an email to info at HayekLab dot com, or Phil.Champagne at gmail to be included with 
+edit rights. This Github will serve as the master copy.
+https://drive.google.com/drive/folders/1Kkyb22Rdna8Mrk4Qz3_QvMGqqo6SUstA?usp=sharing
+
+
 This should be the starting points with notes and references that will serve for writing each chapters. Some of you might
 be just interested in sharing interesting articles and links, while others might be interested in contributing. Remember,
 you don't need to be an established and talented writer, the important is to bring up some points that others can
