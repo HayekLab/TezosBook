@@ -17,7 +17,9 @@ proof-writers. Of course, we hope the Tezos foundation and the developers of the
 validating and perhaps even contribute to documentation for this book.
 
 Contributors can start at any time, some of the team members at Hayek Lab will do so as well. To participate, we are
-using the GitHub.com platform where contributors can make comments or open pull requests with changes.
+using the GitHub.com platform where contributors can make comments or open pull requests with changes. Note that
+the book will also list the name of all contributors - unless of course they want to stay anonymous, or to use
+a pseudonym. 
 
 In addition, we would like the community of writers to be rewarded for their contribution to the book (in tezzies 
 of course). The community will choose through voting on how the tezzies should be distributed among the 
