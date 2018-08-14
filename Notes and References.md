@@ -23,6 +23,8 @@ Chapter 1 - Tezos Origin And History
 The chapter proposed title is "Tezos Origin and history". A good piece of inspiration for this chapter can come from 
 the Wired Magazine article, but there are a lot of other information to cover. The lawsuits against the Foundation
 would also be covered, our personal view is this move was likely premeditated before the ICO.
+https://www.wired.com/story/tezos-blockchain-love-story-horror-story/
+
 
 Chapter 2 - A General Overview of Tezos
 This chapter will provide the 30,000 foot level covering Functional Programming and formal verification, Delegated proof 
