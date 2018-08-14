@@ -3,9 +3,9 @@ An introductory book about Tezos, the crypto-currency with delegated proof of st
 
 The content of this book will come from the contributions of many writers in the Tezos community.
 
-This book is licensed under [Creative Commons BY-NC-SA 4.0](./LICENSE)
+This book will be licensed under [Creative Commons BY-NC-SA 4.0](./LICENSE)
 
-Hayek Lab (HayekLab.com) will create a PDF version of the book to be distributed for free to the community. Considering
+Hayek Lab (HayekLab.com) will create a PDF version of the book to be distributed for free. Considering
 a paper book has better appeal to some readers and will give more prominence to Tezos, Hayek Lab intends on paying for
 the formatting required in order to publish the book in a physical paper book in softcover format. The book will be sold
 without any goals of making a profit but rather to mainly cover costs. Hayek Lab's role in this is to serve as
@@ -16,10 +16,11 @@ Among the contributors of this project, we hope to see Graphic Designers as well
 proof-writers. Of course, we hope the Tezos foundation and the developers of the Tezos source code will help in 
 validating and perhaps even contribute to documentation for this book.
 
-Contributors can start at any time, some of the team members at Hayek Lab will do so as well. To participate, we are
-using the GitHub.com platform where contributors can make comments or open pull requests with changes. Note that
-the book will also list the name of all contributors - unless of course they want to stay anonymous, or to use
-a pseudonym. 
+Contributors can start at any time, some of the team members at Hayek Lab will do so as well. To participate, we will begin by
+using the GitHub.com platform where contributors can make comments or open pull requests with changes. We may choose
+to use google drive as well. Start by looking at the [Notes and references](Notes%20and%20References.md) document. Note 
+that the book will also list the name of all contributors - unless of course they want to stay anonymous, or to use a 
+pseudonym. We may choose google drive as well.
 
 In addition, we would like the community of writers to be rewarded for their contribution to the book (in tezzies 
 of course). The community will choose through voting on how the tezzies should be distributed among the 
