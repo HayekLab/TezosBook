@@ -19,6 +19,11 @@ https://help.github.com/articles/about-pull-requests/
 
 The current table of content is listed as this:
 
+Preface
+
+https://hackernoon.com/the-curious-tale-of-tezos-from-a-232-million-ico-to-4-class-action-lawsuits-6f411b7aad7e
+
+
 Chapter 1 - Tezos Origin And History
 The chapter proposed title is "Tezos Origin and history". A good piece of inspiration for this chapter can come from 
 the Wired Magazine article, but there are a lot of other information to cover. The lawsuits against the Foundation
