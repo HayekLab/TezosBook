@@ -32,6 +32,8 @@ contributors. A Tezos address has been setup for this purpose and Hayek Lab has 
 
 [KT1PkZsLazRwdCYd7Wktg57KrGTAT4Ft9XjE][reward-fund]
 
+Note that Phil Champagne and any other member of Hayek Lab is excluded from this reward.
+
 Anyone can contribute donation as well.
 
 We will use our twitter account ([@HayekLab][hayek-lab-twitter]) to broadcast announcements related to this project.
