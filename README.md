@@ -1,8 +1,10 @@
 # TezosBook
 An introductory book about Tezos, the crypto-currency with delegated proof of stake, smart contracts and governance.
 
-Content also available on google drive
+Content is actually available on google drive
 https://goo.gl/x9QxHe
+
+Will be slowly imported here. So look at the google drive for the latest and greatest
 
 The content of this book will come from the contributions of many writers in the Tezos community.
 
