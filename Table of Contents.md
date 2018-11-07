@@ -1,21 +1,21 @@
-Table of Contents
+# Table of Contents
 
-Introduction 
+- Introduction
 
-Chapter 1 - Tezos Origin And History
+- Chapter 1 - Tezos Origin And History
 
-Chapter 2 - A General Overview of Tezos
+- Chapter 2 - A General Overview of Tezos
 
-Chapter 3 - Using the Tezos Software
+- Chapter 3 - Using the Tezos Software
 
-Chapter 4 - So you want to be a baker
-  
-Chapter 5 - Under the hood
+- Chapter 4 - So you want to be a baker
 
-Chapter 6 - Outlook on the Future of Tezos
+- Chapter 5 - Under the hood
 
-Chapter 7 - Tezos investors personal stories
+- Chapter 6 - Outlook on the Future of Tezos
 
-Conclusion
+- Chapter 7 - Tezos investors personal stories
+
+- Conclusion
 
 
